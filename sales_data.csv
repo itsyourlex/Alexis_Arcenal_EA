@@ -1,0 +1,151 @@
+order_id,order_date,customer_id,product_name,category,quantity,unit_price,total_amount,region,status
+ORD-20341,2025-06-01,CUST-1019,"Heavy Duty Paper Shredder",Office Supplies,6,129.99,779.94,West,Completed
+ORD-20343,2025-06-01,CUST-1007,"Quantum LED Monitor",Electronics,8,349.99,2799.92,South,Completed
+ORD-20346,2025-06-01,CUST-1014,"USB-C Dual Docking Station",Electronics,7,89.99,629.93,East,Completed
+ORD-20349,2025-06-01,CUST-1021,"Mechanical Gaming Keyboard",Electronics,6,119.99,719.94,West,Completed
+ORD-20344,2025-06-04,CUST-1001,"High-Capacity Power Strip",Office Supplies,5,29.99,149.95,North,Completed
+ORD-20352,2025-06-10,CUST-1003,"4K Ultra-HD Webcam",Electronics,5,79.99,399.95,North,Completed
+ORD-20347,2025-06-13,CUST-1008,"Premium Notebook & Pen Set",Office Supplies,4,24.99,99.96,South,Completed
+ORD-20342,2025-06-16,CUST-1013,"Minimalist Floating Shelf",Furniture,3,39.99,119.97,East,Completed
+ORD-20355,2025-06-19,CUST-1010,"Ergonomic Mesh Task Chair",Office Supplies,4,199.99,799.96,South,Completed
+ORD-20350,2025-06-22,CUST-1015,"Solid Oak Bookcase",Furniture,3,299.99,899.97,East,Completed
+ORD-20345,2025-06-25,CUST-1020,"Executive Wool Blazer",Apparel,2,189.99,379.98,West,Pending
+ORD-20358,2025-06-28,CUST-1017,"Dual Motor Standing Desk",Office Supplies,3,499.99,1499.97,East,Completed
+ORD-20353,2025-07-01,CUST-1022,"Comfort Recliner Chair",Furniture,2,399.99,799.98,West,Completed
+ORD-20348,2025-07-04,CUST-1002,"Comfort Fit Cotton Chinos",Apparel,1,59.99,59.99,North,Completed
+ORD-20361,2025-07-08,CUST-1024,"Heavy Duty Paper Shredder",Office Supplies,2,129.99,259.98,West,Completed
+ORD-20356,2025-07-10,CUST-1004,"Glass Coffee Table",Furniture,1,179.99,179.99,North,Completed
+ORD-20351,2025-07-13,CUST-1009,"All-Weather Leather Boots",Apparel,8,129.99,1039.92,South,Pending
+ORD-20369,2025-07-14,CUST-1001,"Mechanical Gaming Keyboard",Electronics,2,119.99,239.98,West,Cancelled
+ORD-20364,2025-07-17,CUST-1006,"High-Capacity Power Strip",Office Supplies,1,29.99,29.99,North,Completed
+ORD-20359,2025-07-20,CUST-1011,"3-Drawer File Cabinet",Furniture,8,149.99,1199.92,South,Completed
+ORD-20354,2025-07-22,CUST-1016,"Stainless Steel Dress Watch",Apparel,7,149.99,1049.93,East,Completed
+ORD-20372,2025-07-23,CUST-1008,"4K Ultra-HD Webcam",Electronics,1,79.99,79.99,North,Completed
+ORD-20367,2025-07-26,CUST-1013,"Premium Notebook & Pen Set",Office Supplies,8,24.99,199.92,South,Completed
+ORD-20362,2025-07-29,CUST-1018,"Minimalist Floating Shelf",Furniture,7,39.99,279.93,East,Completed
+ORD-20357,2025-08-01,CUST-1023,"Packable Travel Raincoat",Apparel,6,89.99,539.94,West,Pending
+ORD-20375,2025-08-01,CUST-1015,"Ergonomic Mesh Task Chair",Office Supplies,8,199.99,1599.92,South,Cancelled
+ORD-20370,2025-08-04,CUST-1020,"Solid Oak Bookcase",Furniture,7,299.99,2099.93,East,Completed
+ORD-20365,2025-08-07,CUST-1000,"Executive Wool Blazer",Apparel,6,189.99,1139.94,West,Completed
+ORD-20360,2025-08-10,CUST-1005,"Pro Wireless Headphones",Electronics,5,149.99,749.95,North,Completed
+ORD-20378,2025-08-10,CUST-1022,"Dual Motor Standing Desk",Office Supplies,7,499.99,3499.93,East,Completed
+ORD-20373,2025-08-13,CUST-1002,"Comfort Recliner Chair",Furniture,6,399.99,2399.94,West,Completed
+ORD-20368,2025-08-16,CUST-1007,"Comfort Fit Cotton Chinos",Apparel,5,59.99,299.95,North,Pending
+ORD-20363,2025-08-19,CUST-1012,"Quantum LED Monitor",Electronics,4,349.99,1399.96,South,Cancelled
+ORD-20381,2025-08-19,CUST-1004,"Heavy Duty Paper Shredder",Office Supplies,6,129.99,779.94,West,Cancelled
+ORD-20376,2025-08-22,CUST-1009,"Glass Coffee Table",Furniture,5,179.99,899.95,North,Completed
+ORD-20371,2025-08-25,CUST-1014,"All-Weather Leather Boots",Apparel,4,129.99,519.96,South,Completed
+ORD-20366,2025-08-28,CUST-1019,"USB-C Dual Docking Station",Electronics,3,89.99,269.97,East,Completed
+ORD-20384,2025-08-29,CUST-1011,"High-Capacity Power Strip",Office Supplies,5,29.99,149.95,North,Completed
+ORD-20379,2025-08-31,CUST-1016,"3-Drawer File Cabinet",Furniture,4,149.99,599.96,South,Completed
+ORD-20374,2025-09-03,CUST-1021,"Stainless Steel Dress Watch",Apparel,3,149.99,449.97,East,Pending
+ORD-20387,2025-09-07,CUST-1018,"Premium Notebook & Pen Set",Office Supplies,4,24.99,99.96,South,Cancelled
+ORD-20382,2025-09-09,CUST-1023,"Minimalist Floating Shelf",Furniture,3,39.99,119.97,East,Completed
+ORD-20377,2025-09-12,CUST-1003,"Packable Travel Raincoat",Apparel,2,89.99,179.98,West,Completed
+ORD-20390,2025-09-16,CUST-1000,"Solid Oak Bookcase",Furniture,3,299.99,899.97,East,Completed
+ORD-20385,2025-09-19,CUST-1005,"Executive Wool Blazer",Apparel,2,189.99,379.98,West,Completed
+ORD-20380,2025-09-21,CUST-1010,"Pro Wireless Headphones",Electronics,1,149.99,149.99,North,Pending
+ORD-20398,2025-09-22,CUST-1002,"Dual Motor Standing Desk",Office Supplies,3,499.99,1499.97,East,Pending
+ORD-20393,2025-09-25,CUST-1007,"Comfort Recliner Chair",Furniture,2,399.99,799.98,West,Completed
+ORD-20388,2025-09-28,CUST-1012,"Comfort Fit Cotton Chinos",Apparel,1,59.99,59.99,North,Completed
+ORD-20383,2025-10-01,CUST-1017,"Quantum LED Monitor",Electronics,8,349.99,2799.92,South,Completed
+ORD-20401,2025-10-01,CUST-1009,"Heavy Duty Paper Shredder",Office Supplies,2,129.99,259.98,West,Completed
+ORD-20396,2025-10-04,CUST-1014,"Glass Coffee Table",Furniture,1,179.99,179.99,North,Completed
+ORD-20391,2025-10-07,CUST-1019,"All-Weather Leather Boots",Apparel,8,129.99,1039.92,South,Completed
+ORD-20386,2025-10-10,CUST-1024,"USB-C Dual Docking Station",Electronics,7,89.99,629.93,East,Pending
+ORD-20404,2025-10-10,CUST-1016,"High-Capacity Power Strip",Office Supplies,1,29.99,29.99,North,Pending
+ORD-20399,2025-10-13,CUST-1021,"3-Drawer File Cabinet",Furniture,8,149.99,1199.92,South,Completed
+ORD-20394,2025-10-16,CUST-1001,"Stainless Steel Dress Watch",Apparel,7,149.99,1049.93,East,Completed
+ORD-20389,2025-10-19,CUST-1006,"Mechanical Gaming Keyboard",Electronics,6,119.99,719.94,West,Completed
+ORD-20407,2025-10-19,CUST-1023,"Premium Notebook & Pen Set",Office Supplies,8,24.99,199.92,South,Completed
+ORD-20402,2025-10-22,CUST-1003,"Minimalist Floating Shelf",Furniture,7,39.99,279.93,East,Completed
+ORD-20397,2025-10-25,CUST-1008,"Packable Travel Raincoat",Apparel,6,89.99,539.94,West,Completed
+ORD-20392,2025-10-28,CUST-1013,"4K Ultra-HD Webcam",Electronics,5,79.99,399.95,North,Pending
+ORD-20410,2025-10-29,CUST-1005,"Solid Oak Bookcase",Furniture,7,299.99,2099.93,East,Pending
+ORD-20405,2025-10-31,CUST-1010,"Executive Wool Blazer",Apparel,6,189.99,1139.94,West,Completed
+ORD-20400,2025-11-03,CUST-1015,"Pro Wireless Headphones",Electronics,5,149.99,749.95,North,Completed
+ORD-20395,2025-11-06,CUST-1020,"Ergonomic Mesh Task Chair",Office Supplies,4,199.99,799.96,South,Completed
+ORD-20413,2025-11-07,CUST-1012,"Comfort Recliner Chair",Furniture,6,399.99,2399.94,West,Completed
+ORD-20408,2025-11-10,CUST-1017,"Comfort Fit Cotton Chinos",Apparel,5,59.99,299.95,North,Completed
+ORD-20403,2025-11-12,CUST-1022,"Quantum LED Monitor",Electronics,4,349.99,1399.96,South,Completed
+ORD-20416,2025-11-16,CUST-1019,"Glass Coffee Table",Furniture,5,179.99,899.95,North,Cancelled
+ORD-20411,2025-11-19,CUST-1024,"All-Weather Leather Boots",Apparel,4,129.99,519.96,South,Completed
+ORD-20406,2025-11-21,CUST-1004,"USB-C Dual Docking Station",Electronics,3,89.99,269.97,East,Completed
+ORD-20419,2025-11-25,CUST-1001,"3-Drawer File Cabinet",Furniture,4,149.99,599.96,South,Completed
+ORD-20414,2025-11-28,CUST-1006,"Stainless Steel Dress Watch",Apparel,3,149.99,449.97,East,Completed
+ORD-20409,2025-12-01,CUST-1011,"Mechanical Gaming Keyboard",Electronics,2,119.99,239.98,West,Completed
+ORD-20427,2025-12-01,CUST-1003,"Premium Notebook & Pen Set",Office Supplies,4,24.99,99.96,South,Pending
+ORD-20422,2025-12-04,CUST-1008,"Minimalist Floating Shelf",Furniture,3,39.99,119.97,East,Cancelled
+ORD-20417,2025-12-07,CUST-1013,"Packable Travel Raincoat",Apparel,2,89.99,179.98,West,Completed
+ORD-20412,2025-12-10,CUST-1018,"4K Ultra-HD Webcam",Electronics,1,79.99,79.99,North,Completed
+ORD-20430,2025-12-10,CUST-1010,"Solid Oak Bookcase",Furniture,3,299.99,899.97,East,Completed
+ORD-20425,2025-12-13,CUST-1015,"Executive Wool Blazer",Apparel,2,189.99,379.98,West,Completed
+ORD-20420,2025-12-16,CUST-1020,"Pro Wireless Headphones",Electronics,1,149.99,149.99,North,Completed
+ORD-20415,2025-12-19,CUST-1000,"Ergonomic Mesh Task Chair",Office Supplies,8,199.99,1599.92,South,Completed
+ORD-20433,2025-12-19,CUST-1017,"Comfort Recliner Chair",Furniture,2,399.99,799.98,West,Pending
+ORD-20428,2025-12-22,CUST-1022,"Comfort Fit Cotton Chinos",Apparel,1,59.99,59.99,North,Cancelled
+ORD-20423,2025-12-25,CUST-1002,"Quantum LED Monitor",Electronics,8,349.99,2799.92,South,Completed
+ORD-20418,2025-12-28,CUST-1007,"Dual Motor Standing Desk",Office Supplies,7,499.99,3499.93,East,Completed
+ORD-20436,2025-12-29,CUST-1024,"Glass Coffee Table",Furniture,1,179.99,179.99,North,Completed
+ORD-20431,2025-12-31,CUST-1004,"All-Weather Leather Boots",Apparel,8,129.99,1039.92,South,Completed
+ORD-20426,2026-01-03,CUST-1009,"USB-C Dual Docking Station",Electronics,7,89.99,629.93,East,Completed
+ORD-20421,2026-01-06,CUST-1014,"Heavy Duty Paper Shredder",Office Supplies,6,129.99,779.94,West,Pending
+ORD-20439,2026-01-07,CUST-1006,"3-Drawer File Cabinet",Furniture,8,149.99,1199.92,South,Pending
+ORD-20434,2026-01-10,CUST-1011,"Stainless Steel Dress Watch",Apparel,7,149.99,1049.93,East,Cancelled
+ORD-20429,2026-01-12,CUST-1016,"Mechanical Gaming Keyboard",Electronics,6,119.99,719.94,West,Completed
+ORD-20424,2026-01-15,CUST-1021,"High-Capacity Power Strip",Office Supplies,5,29.99,149.95,North,Completed
+ORD-20442,2026-01-16,CUST-1013,"Minimalist Floating Shelf",Furniture,7,39.99,279.93,East,Completed
+ORD-20437,2026-01-19,CUST-1018,"Packable Travel Raincoat",Apparel,6,89.99,539.94,West,Completed
+ORD-20432,2026-01-22,CUST-1023,"4K Ultra-HD Webcam",Electronics,5,79.99,399.95,North,Completed
+ORD-20445,2026-01-25,CUST-1020,"Executive Wool Blazer",Apparel,6,189.99,1139.94,West,Pending
+ORD-20440,2026-01-28,CUST-1000,"Pro Wireless Headphones",Electronics,5,149.99,749.95,North,Completed
+ORD-20435,2026-01-31,CUST-1005,"Ergonomic Mesh Task Chair",Office Supplies,4,199.99,799.96,South,Completed
+ORD-20448,2026-02-03,CUST-1002,"Comfort Fit Cotton Chinos",Apparel,5,59.99,299.95,North,Completed
+ORD-20443,2026-02-06,CUST-1007,"Quantum LED Monitor",Electronics,4,349.99,1399.96,South,Completed
+ORD-20438,2026-02-09,CUST-1012,"Dual Motor Standing Desk",Office Supplies,3,499.99,1499.97,East,Completed
+ORD-20456,2026-02-09,CUST-1004,"Glass Coffee Table",Furniture,5,179.99,899.95,North,Completed
+ORD-20451,2026-02-12,CUST-1009,"All-Weather Leather Boots",Apparel,4,129.99,519.96,South,Pending
+ORD-20446,2026-02-15,CUST-1014,"USB-C Dual Docking Station",Electronics,3,89.99,269.97,East,Completed
+ORD-20441,2026-02-18,CUST-1019,"Heavy Duty Paper Shredder",Office Supplies,2,129.99,259.98,West,Completed
+ORD-20459,2026-02-18,CUST-1011,"3-Drawer File Cabinet",Furniture,4,149.99,599.96,South,Completed
+ORD-20454,2026-02-21,CUST-1016,"Stainless Steel Dress Watch",Apparel,3,149.99,449.97,East,Completed
+ORD-20449,2026-02-24,CUST-1021,"Mechanical Gaming Keyboard",Electronics,2,119.99,239.98,West,Completed
+ORD-20444,2026-02-27,CUST-1001,"High-Capacity Power Strip",Office Supplies,1,29.99,29.99,North,Completed
+ORD-20462,2026-02-28,CUST-1018,"Minimalist Floating Shelf",Furniture,3,39.99,119.97,East,Completed
+ORD-20457,2026-03-02,CUST-1023,"Packable Travel Raincoat",Apparel,2,89.99,179.98,West,Pending
+ORD-20452,2026-03-05,CUST-1003,"4K Ultra-HD Webcam",Electronics,1,79.99,79.99,North,Completed
+ORD-20447,2026-03-08,CUST-1008,"Premium Notebook & Pen Set",Office Supplies,8,24.99,199.92,South,Completed
+ORD-20465,2026-03-09,CUST-1000,"Executive Wool Blazer",Apparel,2,189.99,379.98,West,Completed
+ORD-20460,2026-03-12,CUST-1005,"Pro Wireless Headphones",Electronics,1,149.99,149.99,North,Completed
+ORD-20455,2026-03-14,CUST-1010,"Ergonomic Mesh Task Chair",Office Supplies,8,199.99,1599.92,South,Completed
+ORD-20450,2026-03-17,CUST-1015,"Solid Oak Bookcase",Furniture,7,299.99,2099.93,East,Completed
+ORD-20468,2026-03-18,CUST-1007,"Comfort Fit Cotton Chinos",Apparel,1,59.99,59.99,North,Pending
+ORD-20463,2026-03-21,CUST-1012,"Quantum LED Monitor",Electronics,8,349.99,2799.92,South,Cancelled
+ORD-20458,2026-03-24,CUST-1017,"Dual Motor Standing Desk",Office Supplies,7,499.99,3499.93,East,Completed
+ORD-20453,2026-03-26,CUST-1022,"Comfort Recliner Chair",Furniture,6,399.99,2399.94,West,Completed
+ORD-20471,2026-03-27,CUST-1014,"All-Weather Leather Boots",Apparel,8,129.99,1039.92,South,Completed
+ORD-20466,2026-03-30,CUST-1019,"USB-C Dual Docking Station",Electronics,7,89.99,629.93,East,Completed
+ORD-20461,2026-04-02,CUST-1024,"Heavy Duty Paper Shredder",Office Supplies,6,129.99,779.94,West,Completed
+ORD-20474,2026-04-05,CUST-1021,"Stainless Steel Dress Watch",Apparel,7,149.99,1049.93,East,Pending
+ORD-20469,2026-04-08,CUST-1001,"Mechanical Gaming Keyboard",Electronics,6,119.99,719.94,West,Cancelled
+ORD-20464,2026-04-11,CUST-1006,"High-Capacity Power Strip",Office Supplies,5,29.99,149.95,North,Completed
+ORD-20477,2026-04-14,CUST-1003,"Packable Travel Raincoat",Apparel,6,89.99,539.94,West,Completed
+ORD-20472,2026-04-17,CUST-1008,"4K Ultra-HD Webcam",Electronics,5,79.99,399.95,North,Completed
+ORD-20467,2026-04-20,CUST-1013,"Premium Notebook & Pen Set",Office Supplies,4,24.99,99.96,South,Completed
+ORD-20485,2026-04-20,CUST-1005,"Executive Wool Blazer",Apparel,6,189.99,1139.94,West,Completed
+ORD-20480,2026-04-23,CUST-1010,"Pro Wireless Headphones",Electronics,5,149.99,749.95,North,Pending
+ORD-20475,2026-04-26,CUST-1015,"Ergonomic Mesh Task Chair",Office Supplies,4,199.99,799.96,South,Cancelled
+ORD-20470,2026-04-29,CUST-1020,"Solid Oak Bookcase",Furniture,3,299.99,899.97,East,Completed
+ORD-20488,2026-04-30,CUST-1012,"Comfort Fit Cotton Chinos",Apparel,5,59.99,299.95,North,Completed
+ORD-20483,2026-05-02,CUST-1017,"Quantum LED Monitor",Electronics,4,349.99,1399.96,South,Completed
+ORD-20478,2026-05-05,CUST-1022,"Dual Motor Standing Desk",Office Supplies,3,499.99,1499.97,East,Completed
+ORD-20473,2026-05-08,CUST-1002,"Comfort Recliner Chair",Furniture,2,399.99,799.98,West,Completed
+ORD-20486,2026-05-12,CUST-1024,"USB-C Dual Docking Station",Electronics,3,89.99,269.97,East,Pending
+ORD-20481,2026-05-14,CUST-1004,"Heavy Duty Paper Shredder",Office Supplies,2,129.99,259.98,West,Cancelled
+ORD-20476,2026-05-17,CUST-1009,"Glass Coffee Table",Furniture,1,179.99,179.99,North,Completed
+ORD-20489,2026-05-21,CUST-1006,"Mechanical Gaming Keyboard",Electronics,2,119.99,239.98,West,Completed
+ORD-20484,2026-05-24,CUST-1011,"High-Capacity Power Strip",Office Supplies,1,29.99,29.99,North,Completed
+ORD-20479,2026-05-26,CUST-1016,"3-Drawer File Cabinet",Furniture,8,149.99,1199.92,South,Completed
+ORD-20482,2026-05-28,CUST-1023,"Minimalist Floating Shelf",Furniture,7,39.99,279.93,East,Completed
+ORD-20487,2026-05-28,CUST-1018,"Premium Notebook & Pen Set",Office Supplies,8,24.99,199.92,South,Cancelled
+ORD-20490,2026-05-28,CUST-1000,"Solid Oak Bookcase",Furniture,7,299.99,2099.93,East,Completed

@@ -1,0 +1,6 @@
+{
+  "name": "Sales Performance Dashboard",
+  "description": "A professional business intelligence dashboard featuring interactive KPI indicators, custom chart visualizations, an automated CSV generator, and an exportable standalone Plotly dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
